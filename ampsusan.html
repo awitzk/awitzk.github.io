@@ -23,6 +23,7 @@
             margin: auto;
         }
     </style>
+	
 	</head>
 	<body class="is-preload">
 		<!-- Wrapper -->
@@ -61,7 +62,22 @@
 							<p>This was a second, parallel project I undertook during the lockdown with no workshop access. I made a model on Fusion360, and through Reddit found a neighboor with a 3D printer (and a very limited color selection). </p>
 						</div>
 						<div class="image">
-							<img src="images/susanmodel.png" alt="" />
+							<div id="stl_cont" style="width:500px;height:500px;margin:0 auto;"></div>
+
+        						<script src="stl_viewer.min.js"></script>        
+       							 <script>
+           						 var stl_viewer=new StlViewer
+            							(
+               						 document.getElementById("stl_cont"),
+               							 {
+                 					   models:
+                   					 [
+                        			{filename:"tabledialv5.stl"}
+                    				]
+                				}
+          					  );
+        					</script>
+        
 						</div>
 					</section>
 
@@ -134,7 +150,7 @@
 						
 						</div>
 						<div class="image">
-							<img src="futuresusan.jpg" alt="" />
+							<img src="images/futuresusan.jpg" alt="" />
 						</div>
 					</section>
 
