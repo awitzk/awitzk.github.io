@@ -1,32 +1,16 @@
-Story by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Hello! This is my personal website. It's my first attempt at using html to build  site. 
 
+I used this tutorial to start (https://gist.github.com/TylerFisher/6127328) and then I used a template for the general aesthetics. I was able to modify it and include lots of varied file types and links. 
 
-Say hello to Story, a brand new responsive one-pager for HTML5 UP! Inspired by my work
-on Carrd*, Story is built to be extremely modular and tweakable, and as such is entirely
-built on reusable, insanely customizable elements (like "spotlight" and "gallery") that
-can be endlessly duplicated and tweaked into whatever you need to tell your story --
-without, in many cases, touching *any* CSS. Check out index-demo.html for an interactive
-demo, and index.html for the actual template. Enjoy!
+Thanks for taking a look!
 
-Demo images** courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-PS: Delete index-demo.html and assets/js/demo.js when you're done messing with the demo
-as neither are needed in production :)
-
-(* = my other side project -- carrd.co)
-(** = not included)
-
-AJ
-aj@lkn.io | @ajlkn
+- Andrés
 
 
 Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
+	Story by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 	Icons:
 		Font Awesome (fontawesome.io)
