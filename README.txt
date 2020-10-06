@@ -1,4 +1,4 @@
-Hello! This is my personal website. It's my first attempt building an .html website using JavaScript. 
+Hello! This is my first attempt at building a website, and I will be using it to showcase my work.
 
 I used this tutorial to start (https://gist.github.com/TylerFisher/6127328) and then I used a template for the general aesthetics. I was able to modify it and include lots of varied file types and links. 
 
